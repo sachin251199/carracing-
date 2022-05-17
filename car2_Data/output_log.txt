@@ -1,0 +1,33 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   22.20.16.4836
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\carracing\car2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\carracing\car2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\carracing\car2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\carracing\car2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\carracing\car2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\carracing\car2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\carracing\car2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\carracing\car2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\carracing\car2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\carracing\car2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\carracing\car2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\carracing\car2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\carracing\car2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\carracing\car2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: F:\carracing\car2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\carracing\car2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.292200 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3780 -> priority: 1 
